@@ -3,13 +3,13 @@ html {
 }
 .name {
   text-align: center;
-  font-size: 80px;
+  font-size: 100px;
 }
-.one {
+ul {
   list-style-type: none;
   font-style: oblique;
 }
-.one li {
+li {
 font-size: 50px;
 font-weight: bold;
 }
@@ -48,11 +48,21 @@ p {
   float: right;
   width: 50%;
   text-align: center;
-  padding-top: 360px;
+  padding-top: 300px;
 }
 .column4 {
   float: left;
   width: 50%;
   text-align: center;
-  padding-top: 360px;
+  padding-top: 300px;
+}
+.column5 {
+  float:left;
+  width: 50%;
+  padding-top: 100px;
+}
+.column6 {
+  float: right;
+  width: 50%;
+  padding-top: 100px;
 }
