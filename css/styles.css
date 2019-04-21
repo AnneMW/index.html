@@ -31,3 +31,21 @@ font-weight: bold;
   background-image: url("../images/image1.jpg");
   background-size: cover;
 }
+.column1 {
+  font-size: 30px;
+  width: 50%;
+  float: left;
+}
+.column2 {
+  font-size: 30px;
+  width: 50%;
+  float: right;
+}
+.me {
+  text-align: center;
+  font-size: 60px;
+  color: blue;
+}
+p {
+  font-style: italic;
+}
