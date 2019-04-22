@@ -10,6 +10,7 @@ html {
 .name {
   text-align: center;
   font-size: 100px;
+  color: white;
 }
 ul {
   list-style-type: none;
