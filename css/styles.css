@@ -56,13 +56,9 @@ p {
   text-align: center;
   padding-top: 300px;
 }
-.column5 {
-  float:left;
-  width: 50%;
-  padding-top: 100px;
-}
-.column6 {
-  float: right;
-  width: 50%;
-  padding-top: 100px;
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 }
