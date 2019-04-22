@@ -9,12 +9,12 @@ This project is meant to illustrate the use of HTML, CSS and git. It also provid
 * Web Browser
 
 ## Known Bugs
-{ The webpages keep blinking. }
+ The webpages keep blinking. 
 ## Technologies Used
-{ HTML And CSS}
+ HTML And CSS
 ## Support and contact details
-{contact: annemwaniki94@gmail.com}
+contact: annesnowwoods@gmail.com
 ### License
-*{ MIT License
+MIT License
 
-Copyright (c) [2019] [Anne Mwaniki] }
+Copyright (c) 2019  Anne Mwaniki
