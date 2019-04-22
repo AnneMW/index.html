@@ -1,3 +1,9 @@
+@media screen and (min-device-width:1200px)
+              and (max-device-width: 1600px)   {
+                body {
+                  background-color: blue;
+                }
+}
 html {
   height: 100%;
 }
@@ -59,6 +65,6 @@ p {
 .flex {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
